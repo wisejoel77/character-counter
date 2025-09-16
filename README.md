@@ -1,9 +1,6 @@
 🎯 Built a simple yet elegant Character Counter using pure HTML, CSS, and JavaScript! 
 
-👉 Try it live here: <p>
-  <a href="https://wisejoel77.github.io/character-counter/" target="_blank">Character Counter by wisejoel77</a>
-</p>
-
+👉 Try it live here: [Character Counter by wisejoel77 ↗️](https://wisejoel77.github.io/character-counter/)
 
 🚀 Features
 - Real-time character counting
