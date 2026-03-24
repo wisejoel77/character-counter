@@ -9,3 +9,8 @@
 - Responsive and minimal
 
 Feel free to fork, use, and improve!
+
+---
+
+# 👤 Author
+Arnold Joel Joshua Matangi
